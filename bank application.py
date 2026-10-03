@@ -162,4 +162,3 @@ Account Number: {account_number}
     tk.Button(root2,text="submit",command=submit).pack(pady=5)
 btn=tk.Button(root,text="NEW APPLICATION",command=open_root2).pack(pady=5)
 root.mainloop()
-#wwwwwww
